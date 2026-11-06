@@ -1,0 +1,29 @@
+[worldserver]
+
+########################################
+# mod-party-companions
+########################################
+
+# Turn the companion party system on or off.
+PartyManager.Enable = 1
+
+# How many of your own characters can join you at once (1-4).
+PartyManager.MaxCompanions = 4
+
+# Companions are raised to your level and earn no XP of their own.
+PartyManager.LevelLock = 1
+
+# Kills give you full solo XP while your companions are grouped with you.
+PartyManager.FullSoloXP = 1
+
+# Items companions pick up are moved into your bags.
+PartyManager.SharedBags = 1
+
+# Gold companions receive goes to you.
+PartyManager.SharedPurse = 1
+
+# How close (yards) a Transmogrifier must be to change appearances.
+PartyManager.TransmogRange = 15
+
+# Seconds a fallen companion stays down before getting back up (only once the fight is over).
+PartyManager.ReviveDelay = 30

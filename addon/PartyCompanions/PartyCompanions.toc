@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Party Companions
+## Notes: Summon your own characters as companions, gear them from your bags and dress them at the Transmogrifier.
+## Author: Party Companions contributors
+## Version: 1.0.0
+## SavedVariablesPerCharacter: PartyManagerDB
+PartyCompanions.lua
